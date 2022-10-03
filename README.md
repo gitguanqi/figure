@@ -20,6 +20,10 @@ Case cases are stored under the **f** folder.
 
 The npm dependency package related is stored under the **n** folder.
 
+## user
+
+Some pictures like user heads are stored in the **u** folder.
+
 ## question
 
 [submit your feedback](https://github.com/gitguanqi/figure/issues/new)
